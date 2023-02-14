@@ -2,10 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cauã+Salinas!;I'm+19+years+old;I'm+from+Brazil;I+have+technical+course+in+systems+development;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
+<h4>Antes da minha apresentação, gostaria de agradecer por você estar lendo isso.</h4>
+<p>Me chamo Cauã, tenho 19 anos e sou de São Paulo.</p>
+<p>Desde sempre gostei muito da área da tecnologia, design e afins. Fiz o ensino médio integrado ao técnico em Desenvolvimento de Sistemas em uma das diversas ETECs que temos em São Paulo.</p>
+<p>Por um tempo decidi parar de estudar programação para conhecer outras áreas profissionais e, felizmente, percebi que quero seguir na área de programação (especificamente front-end).</p>
+<p>A alguns meses atrás voltei a estudar programação iniciando em HTML e CSS (já que eu acabei esquecendo). Atualmente estou estudando JavaScript e jQuery, com o objetivo de conseguir migrar de emprego para a área de dev.</p>
+<p>Futuramente pretendo aprender muitas outras linguagens de programação e frameworks e, se tudo ocorrer como o planejado, farei uma graduação em Análise e Desenvolivmento de Sistemas :)</p>
+<br />
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Salinas255&show_icons=true&count_private=true&hide_border=true&title_color=5F9EA0&icon_color=5F9EA0&text_color=c9d1d9&bg_color=0d1117" alt="Cauã Salinas' github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salinas255&layout=compact&hide_border=true&title_color=5F9EA0&text_color=ff91a4&bg_color=0d1117" />
 </div>
+<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Salinas255&bg_color=0d1117&color=5f9ea0&line=b0b0b0&point=5f9ea0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
