@@ -16,11 +16,10 @@
 </div>
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Salinas255&bg_color=0d1117&color=5f9ea0&line=b0b0b0&point=5f9ea0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salinas255)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
-<a href="https://www.instagram.com/caua.salinas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5F9EA0?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cauasalinas176@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cau%C3%A3-salinas-3307a9227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
