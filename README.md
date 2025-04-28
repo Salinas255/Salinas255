@@ -5,7 +5,7 @@
 <h4>Antes da minha apresentação, gostaria de agradecer por você estar lendo isso.</h4>
 <p>Me chamo Cauã, tenho 21 anos e sou de São Paulo.</p>
 <p>Desde sempre gostei muito da área da tecnologia, design e afins. Fiz o ensino médio integrado ao técnico em Desenvolvimento de Sistemas em uma das diversas ETECs que temos em São Paulo.</p>
-<p>Por um tempo decidi parar de estudar programação para conhecer outras áreas profissionais e, felizmente, percebi que quero seguir na área de programação (especificamente como fullstack).</p>
+<p>Por um tempo decidi parar de estudar programação para conhecer outras áreas profissionais e, felizmente, percebi que quero seguir na área de programação (especificamente como Full-Stack).</p>
 <p>Voltei a estudar programação recentemente, me matriculando no curso de <b>Análise e Desenvolvimento de Sistemas</b> na Faculdade Impacta Tecnologia e fazendo aulas na plataformas de cursos online da Digital Innovation One.</p>
 <p>Espero conseguir migrar de emprego para a área da tecnologia em breve :)</p>
 <br />
