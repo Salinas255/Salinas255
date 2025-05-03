@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9EA0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cauã+Salinas!;I'm+19+years+old;I'm+from+Brazil;I+have+technical+course+in+systems+development;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cauã+Salinas!;I'm+21+years+old;I'm+from+Brazil;I+have+technical+course+in+systems+development;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <h4>Antes da minha apresentação, gostaria de agradecer por você estar lendo isso.</h4>
 <p>Me chamo Cauã, tenho 21 anos e sou de São Paulo.</p>
